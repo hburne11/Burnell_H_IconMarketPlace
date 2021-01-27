@@ -1,0 +1,151 @@
+.hidden
+{
+	display: none;
+}
+
+.container
+{
+
+	max-width: 960px;
+	margin: 0 auto;
+  text-align: center;
+}
+
+h1, h2, p
+{
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1
+{
+	font-size: 48px;
+	font-weight: 700;
+
+}
+
+h2
+{
+	font-size: 24px;
+	font-weight: 200;
+}
+
+p
+{
+  font-size: 18px;
+  font-weight: normal;
+}
+
+#mainNav ul
+{
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+
+}
+
+#mainNav ul li
+{
+
+	margin: 0 auto;
+	list-style-type: none;
+}
+
+#mainNav ul li a
+{
+	color: #000;
+  margin: 0 auto;
+	font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+	text-transform: uppercase;
+  text-decoration: none;
+	padding: 10px;
+
+}
+
+#mainNav ul li a:hover
+{
+	background-color: #73B2E2;
+	border-radius: 10px;
+	color: #333;
+
+}
+
+.icon-holder{
+
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: flex-start;
+	margin: 50px 50px 50px 50px;
+
+}
+
+#stick:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#sticks:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#skater:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#skate:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#rink:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#player:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#pads:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#net:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#goalie:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
+
+#puck:hover
+{
+	background-color: #73B2E2;
+	border-radius: 20px;
+	color: #333;
+}
