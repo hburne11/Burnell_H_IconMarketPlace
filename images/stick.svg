@@ -1,1 +1,18 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.02 382.67"><defs><style>.cls-1,.cls-2{fill:none;stroke:#231f20;stroke-miterlimit:10;}.cls-1{stroke-width:9px;}.cls-2{stroke-width:5px;}</style></defs><path class="cls-1" d="M59,101S38,69,64,59c0,0,23-15,41,9L351,340l106.71-16L478,321s29-8,36,22l1,33s1,16-22,41c0,0-28,15-64,9l-65,2s-13-8-50-49Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M459,430l-1.29-106Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M178,152l-38,37Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M288,272l-37,37Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M395,333l5,92Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M364,428l120-5Z" transform="translate(-46.49 -49.87)"/><line class="cls-2" x1="316.55" y1="378.17" x2="437.47" y2="372.09"/></svg>
+<svg id="stick" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 473.02 382.67"><defs>
+  <style>.cls-1,.cls-2{fill:none;stroke:#231f20;stroke-miterlimit:10;}.cls-1{stroke-width:9px;}.cls-2{stroke-width:5px;}</style>
+</defs>
+<path class="cls-1" d="M59,101S38,69,64,59c0,0,23-15,41,9L351,340l106.71-16L478,321s29-8,36,22l1,33s1,16-22,41c0,0-28,15-64,9l-65,2s-13-8-50-49Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M459,430l-1.29-106Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M178,152l-38,37Z"
+transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M288,272l-37,37Z" transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M395,333l5,92Z"
+transform="translate(-46.49 -49.87)"/><path class="cls-1" d="M364,428l120-5Z" transform="translate(-46.49 -49.87)"/><line class="cls-2" x1="316.55" y1="378.17" x2="437.47" y2="372.09"/>
+<defs>
+  <script>
+    let stick = document.querySelector("#stick");
+
+    function logMyId() {
+    console.log(this.id);
+    }
+
+    badge.addEventListener("click", logMyId);
+  </script>
+</defs>
+</svg>
